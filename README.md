@@ -4,7 +4,9 @@ Source code and data for "From Disorganized Data to Emergent Generative Dynamic 
 
 
 Data:
-Drosophila Data and Embeddings: /drosophila/embryo_embedding.mat
+
+Drosophila Data and Embeddings: /drosophila/embryo_embedding.mat 
+
 Advection-Diffusion: /advection_diffusion/tubular_reactor_rawlings.m
 
 
